@@ -1,2 +1,2 @@
 # helloworld
-helloworld .the first code for smokepoppy
+helloworld .the first code from smokepoppy
